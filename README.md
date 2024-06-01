@@ -23,7 +23,7 @@ F1-Score for Class 0 (Healthy Loan): 1.00
 F1-Score for Class 1 (High-Risk Loan): 0.88
 
 
-Detailed Metrics
+-Detailed Metrics
 
 Class 0 (Healthy Loan):
 
@@ -47,7 +47,7 @@ F1-Score: 0.88
 Support: 619
 
 
-Overall Metrics:
+-Overall Metrics:
 
 Macro Average Precision: 0.92
 
@@ -62,7 +62,7 @@ Weighted Average Recall: 0.99
 Weighted Average F1-Score: 0.99
 
 
-Confusion Matrix
+-Confusion Matrix
 
 Predicted 0 (Healthy Loan)	Predicted 1 (High-Risk Loan)
 
